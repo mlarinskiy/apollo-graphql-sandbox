@@ -1,0 +1,2 @@
+rootProject.name = "Appllo Sandbox"
+include ':app'
